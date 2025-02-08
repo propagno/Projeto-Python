@@ -1,0 +1,2 @@
+Digite seu prompt,Resposta da IA,timestamp
+teste,"Connection error occurred: HTTPSConnectionPool(host='api.generativeai.google.com', port=443): Max retries exceeded with url: /v1/models/gemini-pro:generateText (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000211332F2D50>: Failed to resolve 'api.generativeai.google.com' ([Errno 11001] getaddrinfo failed)""))",2025-02-08 00:01:42.891328
