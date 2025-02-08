@@ -2,7 +2,7 @@ import gradio as gr
 import openai
 
 # Substitua pela sua chave de API da OpenAI
-API_KEY = "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"
+API_KEY = "API_KEY"
 
 # Configure a chave de API
 openai.api_key = API_KEY
